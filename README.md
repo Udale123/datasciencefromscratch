@@ -9,3 +9,5 @@ Chapter 2: A crash course in python
 Chapter 3: Visualising Data
 
 Chapter 4: Linear Algebra
+
+Chapter 5: Statistics
