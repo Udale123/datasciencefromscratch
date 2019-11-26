@@ -11,3 +11,6 @@ Chapter 3: Visualising Data
 Chapter 4: Linear Algebra
 
 Chapter 5: Statistics
+
+Chapter 6: Probability
+
