@@ -1,11 +1,11 @@
 {
-  "base_url": "/binder/jupyter/user/udale123-datasciencefromscratch-xbwcckqb/",
+  "base_url": "/binder/jupyter/user/udale123-datasciencefromscratch-h99w9dby/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "LYuT4sxiQ-2HjcfKukuYTQ",
-  "url": "http://0.0.0.0:8888/binder/jupyter/user/udale123-datasciencefromscratch-xbwcckqb/"
+  "token": "gqJhup_xSUuW2uNt7yKqRQ",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/udale123-datasciencefromscratch-h99w9dby/"
 }
