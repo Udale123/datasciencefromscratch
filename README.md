@@ -14,5 +14,5 @@ Chapter 5: Statistics
 
 Chapter 6: Probability
 
-Chapter 8: Hypothesis testing
+Chapter 7: Hypothesis testing
 
